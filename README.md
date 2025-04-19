@@ -65,4 +65,14 @@
 
 <img src="https://raw.githubusercontent.com/MansoorAZafar/MansoorAZafar/output/snake.svg" alt="Snake animation" />
 
-###
+### Try out These Games!
+#### CardClash
+https://cardclash.onrender.com/
+
+Repo: https://github.com/MansoorAZafar/CardClash
+
+#### Mini Quest
+https://frontend-full-stack-react-game.vercel.app/
+
+Repo: https://github.com/MansoorAZafar/FullStack-React-Game
+
