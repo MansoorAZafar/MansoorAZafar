@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mansoor Zafar and I'm a 3rd year Software Developer Student from Seneca Polytechnic</h2>
+<h2 align="left">Hi 👋! My name is Mansoor Zafar and I'm a 4th year Software Developer Student from Seneca Polytechnic</h2>
 
 ###
 
